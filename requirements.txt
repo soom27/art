@@ -1,0 +1,6 @@
+# 그림을 그릴 때만 필요하다. 데이터와 기하 계산(nightingale.data, nightingale.rose,
+# nightingale.table)은 표준 라이브러리만으로 돌아간다.
+matplotlib>=3.7
+
+# 테스트
+pytest>=7.4
